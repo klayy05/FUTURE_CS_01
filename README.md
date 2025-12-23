@@ -1,8 +1,6 @@
-# FUTURE_CS_01
+# Web Application Penetration Testing(OWASP Juice Shop)
 ## **Overview**
-This repository contains the **Task 01 security assessment task** for my cybersecurity internship.
-
-The objective of this task is to **conduct security testing ** on a sample web application, identify vulnerabities, and document the findings.
+The objective of this task is to **conduct security testing** on a sample web application, identify vulnerabities, and document the findings.
 
 ---
 
@@ -65,7 +63,7 @@ http://localhost:3000
 - A security assessment report outlining:
   - Identified vulnerabilities and their severity.
   - Suggested remediation steps.
-  - Screenshots of successful exploitations (if applicable).
+  - Screenshots of successful exploitations (found in the report of this project).
 
 ---
 
